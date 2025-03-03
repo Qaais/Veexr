@@ -1,7 +1,7 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTM0NjA4MjgwNzY4ODIwMDIzNg.Gfkywm.rw0_-3APJSU3l_29_s_YxdsUppr_7bkqXsIKc4",
   language: "en",
   ownerID: ["1015298973415768155", ""], 
   mongodbUri : "mongodb+srv://Veex:<db_password>@cluster0.upxjg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
