@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["1015298973415768155", ""], 
-  mongodbUri : "mongodb+srv://myDatabaseUser:D1fficultP%40ssw0rd@cluster0.example.mongodb.net/?retryWrites=true&w=majority",
+  mongodbUri : "mongodb+srv://Veex:<db_password>@cluster0.upxjg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
